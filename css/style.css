@@ -1,0 +1,87 @@
+.lorem{
+    background-color: aqua;
+    width: 300px;
+    margin: auto;
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+    
+}
+button{
+    background-color: aquamarine;
+    border: 1px solid rebeccapurple;
+    padding: 7px;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+    color: rgb(245, 59, 12);
+}
+.ipsum{
+    background-color: aqua;
+    width: 300px;
+    margin: auto;
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+      
+}
+.dolor{
+    background-color: aqua;
+    width: 300px;
+    margin: auto;
+    padding: 10px;
+    display: none;
+    color: #fff;
+    text-align: center;
+    
+}
+.dolo{
+    background-color: aqua;
+    width: 300px;
+    margin: auto;
+    padding: 10px;
+   
+    color: #fff;
+    text-align: center;
+    
+}
+h2{
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(100, 84, 82);
+    color: #fff;
+    cursor: pointer;
+}
+h6{
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(34, 31, 28);
+    color: #fff;
+
+}
+ .box{
+     width: 400px;
+     height: 100px;
+     background: linear-gradient(red, blue, green);
+    margin: auto;
+    position: relative;
+ }
+ .parant *{
+     display: block;
+     border: 2px solid rgb(55, 148, 190);
+     padding: 5px;
+     margin: 15px;
+    
+ }
+ .dic *{
+    display: block;
+    border: 2px solid rgb(55, 148, 190);
+    padding: 5px;
+    margin: 15px;
+   
+}
